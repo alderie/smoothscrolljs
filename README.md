@@ -2,12 +2,12 @@
 Smooth scrolling within certain elements or for the whole page regardless of mouse input
 
 # Usage
-``javascript
+```javascript
 let scroller = new SmoothScroll({ target: 'html' })
-``
+```
 
 # Additional Options
-``javascript
+```javascript
 let scroller = new SmoothScroll({ 
   target: 'html' //Regular query selector
   speed: 10 //Speed increase caused by scrolling with mouse
@@ -18,4 +18,5 @@ let scroller = new SmoothScroll({
 })
 
 //Additional method to destroy all timers and event listeners
-scroller.destroy();``
+scroller.destroy();
+```
