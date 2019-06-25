@@ -1,12 +1,12 @@
 # smoothscrolljs
 Smooth scrolling within certain elements or for the whole page regardless of mouse input
 
-#Usage
+# Usage
 ``javascript
 let scroller = new SmoothScroll({ target: 'html' })
 ``
 
-#Additional Options
+# Additional Options
 ``javascript
 let scroller = new SmoothScroll({ 
   target: 'html' //Regular query selector
