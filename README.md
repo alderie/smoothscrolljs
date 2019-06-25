@@ -1,4 +1,4 @@
-# smoothscrolljs
+# Smooth Scroll JS
 Smooth scrolling within certain elements or for the whole page regardless of mouse input
 
 # Usage
